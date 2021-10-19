@@ -9,10 +9,10 @@
 
 - 😄 Pronouns: she/her/hers
 
-- 💬 Ask me about: Python
+- 💬 Ask me about: Security
 
-- 🔭 I’m currently working on cybersecurity strategies
+- 🔭 I’m currently working on my programming skills
 
-- 🌱 I’m currently learning about python and C.
+- 🌱 I’m currently learning about Javascript, HTML, and css.
 
-- ⚡ Fun fact: I have 2 doggies named Max and Ari!
+- ⚡ Fun fact: I was EOD(i.e. bomb squad) in the army many years ago!
