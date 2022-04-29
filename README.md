@@ -78,3 +78,8 @@
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-2.svg" alt="xd" width="40" height="40"/> 
   </a>
 </p>
+
+<h3> 
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px">
+  Latest Update
+</h3>
