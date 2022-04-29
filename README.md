@@ -80,6 +80,7 @@
 </p>
 
 <h3> 
-  <img src="https://giphy.com/gifs/the-simpsons-computer-confused-citBl9yPwnUOs/giphy.gif" width="40px">
   Latest Update
 </h3>
+
+
