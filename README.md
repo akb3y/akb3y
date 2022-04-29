@@ -80,6 +80,6 @@
 </p>
 
 <h3> 
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px">
+  <img src="https://giphy.com/embed/v2xIous7mnEYg" width="40px">
   Latest Update
 </h3>
