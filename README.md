@@ -14,11 +14,11 @@
 
 - 😄 Pronouns: she/her/hers
 
-- 💬 Ask me about: dogs, music, and social science
+- 💬 Ask me about: programming, dogs, music and social science
 
-- 🔭 I’m currently working on my programming skills
+- 🔭 I’m currently working on a system design capstone, creating an API for a frontend capstone we completed earlier.
 
-- 🌱 I’m learning about Javascript, HTML, and css.
+- 🌱 I’m learning about Javascript, express, node, HTML, React.
 
 - ⚡ Fun fact: I was EOD(i.e. bomb squad) in the army many years ago!
 
