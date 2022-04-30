@@ -83,10 +83,3 @@
 <a href="https://www.adobe.com/products/xd.html" target="_blank"> 
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-2.svg" alt="xd" width="40" height="40"/> 
 </a>
-
-<br />
-
-<h3>🎼 Now Playing</h3>
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/7tdwLm9PJuJC0TEUPYLlz4)
-
-
