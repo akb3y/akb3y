@@ -22,7 +22,7 @@
 
 - ⚡ Fun fact: I was EOD(i.e. bomb squad) in the army many years ago!
 
-<h3 align="left"> ⚙️ Languages and Tools</h3>
+#### ⚙️ Languages and Tools
 <p align="left"> 
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>       </a>  
@@ -72,14 +72,10 @@
     <img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" alt="styled-components" width="40" height="40"/> 
   </a> 
 </p>
-<br />
-<h3>👩‍💻 Softwares</h3>
-<a href="https://code.visualstudio.com/docs" target="_blank"> 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-  </a>
-<a href="https://www.adobe.com/products/illustrator.html" target="_blank"> 
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-icon.svg" alt="illustrator" width="40" height="40"/> 
-</a> 
-<a href="https://www.adobe.com/products/xd.html" target="_blank"> 
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-2.svg" alt="xd" width="40" height="40"/> 
-</a>
+![Reactjs] (https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)&nbsp
+
+#### 👩‍💻 Softwares
+
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
