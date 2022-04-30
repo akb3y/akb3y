@@ -87,6 +87,6 @@
 <br />
 
 <h3>🎼 Now Playing</h3>
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/37i9dQZF1ELWvgEFeW5aH4)
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/7tdwLm9PJuJC0TEUPYLlz4)
 
 
