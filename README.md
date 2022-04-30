@@ -5,6 +5,7 @@
   <img src="https://thumbs.dreamstime.com/b/happy-pet-dog-puppy-running-grass-jack-russell-background-banner-copy-space-128456559.jpg" width="400" height="300" />
 </div>
 <br />
+
 #### Connect with Me
 
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=alisha.barraw@gmail.com)
