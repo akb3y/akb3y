@@ -74,7 +74,7 @@
 </p>
 <br />
 <h3>👩‍💻 Softwares</h3>
-<a href="https://code.visualstudio.com/" target="_blank"> 
+<a href="https://code.visualstudio.com/docs" target="_blank"> 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
   </a>
 <a href="https://www.adobe.com/products/illustrator.html" target="_blank"> 
@@ -83,5 +83,10 @@
 <a href="https://www.adobe.com/products/xd.html" target="_blank"> 
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-2.svg" alt="xd" width="40" height="40"/> 
 </a>
+
+<br />
+
+<h3>🎼 Now Playing</h3>
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/37i9dQZF1ELWvgEFeW5aH4)
 
 
