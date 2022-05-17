@@ -19,9 +19,9 @@
 
 - 💬 Ask me about: programming, dogs, music and social science
 
-- 🔭 I’m currently working on a system design capstone, creating an API for a frontend capstone we completed earlier.
+- 🔭 I’m currently working on a boardgame reccomendation app.
 
-- 🌱 I’m learning about Javascript, express, node, HTML, React.
+- 🌱 I’m learning about TypeScript.
 
 - ⚡ Fun fact: I was EOD(i.e. bomb squad) in the army many years ago!
 
