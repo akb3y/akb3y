@@ -2,7 +2,6 @@
   <h1>
     Welcome to my page, I'm Alisha
   </h1>
-  <img src="https://thumbs.dreamstime.com/b/happy-pet-dog-puppy-running-grass-jack-russell-background-banner-copy-space-128456559.jpg" width="400" height="300" />
 </div>
 <br />
 
