@@ -18,7 +18,7 @@
 
 - 💬 Ask me about: programming, dogs, music and social science
 
-- 🔭 I’m currently working on a boardgame reccomendation app.
+- 🔭 I’m currently working on a meal planning app.
 
 - 🌱 I’m learning about TypeScript.
 
